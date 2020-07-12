@@ -1,2 +1,2 @@
 # BSI_App
-Aggregator for household service
+Aggregator for household services
